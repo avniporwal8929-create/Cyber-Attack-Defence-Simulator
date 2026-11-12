@@ -13,16 +13,22 @@ The project aims to demonstrate fundamental cybersecurity concepts through pract
 ## 🚀 Features
 
 ### 1. Cyber Attack Simulation
+<img width="890" height="557" alt="image" src="https://github.com/user-attachments/assets/3120d8c6-97bc-4fd3-97af-5ddfe6950afa" />
+
 - Simulate different cyber attack scenarios.
 - Observe how simulated attacks interact with the application's security components.
 - Understand the relationship between attack activities and defensive mechanisms.
 
 ### 2. Network Monitoring
+<img width="879" height="552" alt="image" src="https://github.com/user-attachments/assets/94fccec4-6826-4aaf-a4c2-c1e6e2159487" />
+
 - Monitor network-related activity through the dashboard.
 - View relevant security information.
 - Observe changes during simulated attack scenarios.
 
 ### 3. Threat Detection & Management
+<img width="891" height="554" alt="image" src="https://github.com/user-attachments/assets/a7503f83-be52-4233-8eba-d49765f46a0e" />
+
 - Manage threats identified or generated within the simulator.
 - Track security-related events.
 - Organize threat information through dedicated management components.
@@ -33,6 +39,8 @@ The project aims to demonstrate fundamental cybersecurity concepts through pract
 - Demonstrate the concept of containing and recovering from security incidents.
 
 ### 5. Security Event Logging
+<img width="885" height="545" alt="image" src="https://github.com/user-attachments/assets/23933986-3a46-4918-a002-58bf40417555" />
+
 - Record security-related activities.
 - Maintain logs of application events.
 - Review actions performed during simulation and defense operations.
